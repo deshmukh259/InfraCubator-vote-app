@@ -1,0 +1,1 @@
+# InfraCubator-vote-app
